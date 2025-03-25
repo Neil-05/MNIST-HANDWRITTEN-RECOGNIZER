@@ -1,6 +1,6 @@
-#MNIST Handwritten Digit Recognizer
+# MNIST Handwritten Digit Recognizer
 
-#Overview
+# Overview
 This project implements a deep learning-based handwritten digit recognizer using the MNIST dataset. The model is trained to classify digits (0-9) from grayscale images of handwritten numbers.
 
 # Features
